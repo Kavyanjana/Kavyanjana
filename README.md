@@ -4,6 +4,7 @@
 </p>
 
 <h3 align="center">Hi, I'm Kavyanjana Vankayala <img src="https://raw.githubusercontent.com/Kavyanjana/Kavyanjana/main/assets/pikachu-hi.gif" width="70" alt="Pikachu waving hello" /></h3>
+<p align="center"><code>Turning coffee, curiosity &amp; code into something useful.</code></p>
 
 ### 👩🏻‍💻 About Me
 
@@ -80,3 +81,5 @@ All certifications were issued by The Linux Foundation.
 ### 🤝 Let's Connect
 
 I'd love to connect and learn from others in the cloud-native and open-source community. Find me on [LinkedIn](https://www.linkedin.com/in/kavya-vankayala-devops-sre).
+
+<p align="center"><em>Creating solutions, not just software.</em></p>
