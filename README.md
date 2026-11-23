@@ -11,7 +11,6 @@
 I'm interested in DevOps, cloud-native technologies, and automation. I enjoy working with Kubernetes and infrastructure tools, and contributing to open source alongside the community.
 
 - 🌱 Exploring cloud-native platforms, infrastructure automation, and CI/CD.
-- 🤝 Contributing release schedule updates and documentation to the Kubernetes community.
 - 🎨 Outside of tech, I enjoy art, painting, drawing, mandala art, and doodling.
 
 ## 🛠️ Tech Stack
