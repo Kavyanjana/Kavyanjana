@@ -57,6 +57,17 @@ I'm interested in DevOps, cloud-native technologies, and automation. I enjoy wor
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+## 🏆 Certifications
+
+| Certification | Issuer | Validity |
+| --- | --- | --- |
+| **CKS** — Certified Kubernetes Security Specialist | The Linux Foundation | Nov 2026 – Nov 2028 |
+| **CKA** — Certified Kubernetes Administrator | The Linux Foundation | Sep 2026 – Sep 2028 |
+| **PCA** — Prometheus Certified Associate | The Linux Foundation | Sep 2026 – Sep 2028 |
+| **KCSA** — Kubernetes and Cloud Native Security Associate | The Linux Foundation | Aug 2026 – Aug 2028 |
+| **KCNA** — Kubernetes and Cloud Native Associate | The Linux Foundation | Aug 2026 – Sep 2028 |
+| **CKAD** — Certified Kubernetes Application Developer | The Linux Foundation | Sep 2024 – Sep 2026 (expired) |
+
 ## 🌱 Open Source Contributions
 
 - **Last Week in Kubernetes:** [Release schedule contributions](https://github.com/kubernetes-sigs/lwkd/pulls?q=is%3Apr+author%3AKavyanjana).
