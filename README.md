@@ -21,14 +21,11 @@ I'm interested in DevOps, cloud-native technologies, and automation. I enjoy wor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -47,8 +44,6 @@ I'm interested in DevOps, cloud-native technologies, and automation. I enjoy wor
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Concourse](https://img.shields.io/badge/Concourse-3398DC?style=flat-square&logo=concourse&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Sonatype Nexus](https://img.shields.io/badge/Sonatype%20Nexus-4E8AAB?style=flat-square&logo=sonatype&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logoColor=white)
 
@@ -56,17 +51,42 @@ I'm interested in DevOps, cloud-native technologies, and automation. I enjoy wor
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Validity |
-| --- | --- | --- |
-| **CKS** — Certified Kubernetes Security Specialist | The Linux Foundation | Nov 2026 – Nov 2028 |
-| **CKA** — Certified Kubernetes Administrator | The Linux Foundation | Sep 2026 – Sep 2028 |
-| **PCA** — Prometheus Certified Associate | The Linux Foundation | Sep 2026 – Sep 2028 |
-| **KCSA** — Kubernetes and Cloud Native Security Associate | The Linux Foundation | Aug 2026 – Aug 2028 |
-| **KCNA** — Kubernetes and Cloud Native Associate | The Linux Foundation | Aug 2026 – Sep 2028 |
-| **CKAD** — Certified Kubernetes Application Developer | The Linux Foundation | Sep 2024 – Sep 2026 (expired) |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
+      <strong>CKS</strong><br />Certified Kubernetes Security Specialist<br /><sub>Valid until Nov 2028</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
+      <strong>CKA</strong><br />Certified Kubernetes Administrator<br /><sub>Valid until Sep 2028</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="70" height="70" alt="Prometheus logo" /><br />
+      <strong>PCA</strong><br />Prometheus Certified Associate<br /><sub>Valid until Sep 2028</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
+      <strong>KCSA</strong><br />Kubernetes and Cloud Native Security Associate<br /><sub>Valid until Aug 2028</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
+      <strong>KCNA</strong><br />Kubernetes and Cloud Native Associate<br /><sub>Valid until Sep 2028</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
+      <strong>CKAD</strong><br />Certified Kubernetes Application Developer<br /><sub>Expired Sep 2026</sub>
+    </td>
+  </tr>
+</table>
+
+All certifications were issued by The Linux Foundation.
 
 ## 🌱 Open Source Contributions
 
@@ -74,6 +94,16 @@ I'm interested in DevOps, cloud-native technologies, and automation. I enjoy wor
 - **Kubernetes documentation:** [Website contributions](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3AKavyanjana).
 - **Kubernetes conformance:** [Conformance results submissions](https://github.com/cncf/k8s-conformance/pulls?q=is%3Apr+author%3AKavyanjana).
 - **Kubernetes contributor site:** [SIG Apps spotlight scheduling](https://github.com/kubernetes/contributor-site/pull/888).
+
+## 📊 GitHub Statistics
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavyanjana&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyanjana&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's top languages on GitHub" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Kavyanjana&amp;theme=github-dark-blue&amp;hide_border=true" alt="Kavyanjana's GitHub contribution streak" />
+</p>
 
 ## 🤝 Let's Connect
 
