@@ -72,3 +72,5 @@ All certifications were issued by The Linux Foundation.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavyanjana&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyanjana&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=10" alt="Kavyanjana's top languages on GitHub" />
 </p>
+
+<p align="center"><em>Creating solutions, not just software.</em></p>
