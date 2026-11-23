@@ -1,4 +1,5 @@
 <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Kavyanjana&amp;label=Profile%20views&amp;color=326CE5&amp;style=for-the-badge" alt="Profile views" />
   <a href="https://www.linkedin.com/in/kavya-vankayala-devops-sre"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
