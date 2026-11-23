@@ -17,7 +17,7 @@ I'm a cloud-native platform engineer interested in Kubernetes, infrastructure au
 
 ### 🛠️ Tech Stack
 
-**Programming & Scripting:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+**Programming & Scripting:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
 **Cloud & Infrastructure:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
@@ -70,5 +70,5 @@ All certifications were issued by The Linux Foundation.
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavyanjana&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyanjana&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's top languages on GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyanjana&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=10" alt="Kavyanjana's top languages on GitHub" />
 </p>
