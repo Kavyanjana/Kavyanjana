@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kavyanjana Vankayala 👋</h1>
+<h1 align="center">Hi, I'm Kavyanjana Vankayala <img src="https://raw.githubusercontent.com/Kavyanjana/Kavyanjana/main/assets/pikachu-hi.gif" width="70" alt="Pikachu waving hello" /></h1>
 <p align="center"><strong>DevOps · Cloud Native · Open Source</strong></p>
 
 <p align="center">
