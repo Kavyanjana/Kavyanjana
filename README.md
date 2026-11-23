@@ -8,7 +8,7 @@
 
 ## ☁️ About Me
 
-I'm a cloud-native platform engineer interested in DevOps, Kubernetes, infrastructure automation, and open-source collaboration.
+I'm a cloud-native platform engineer interested in Kubernetes, infrastructure automation, and open-source collaboration. I enjoy exploring ways to build dependable platforms, streamline operations, and apply AI to software engineering.
 
 - 🌱 Exploring cloud-native platforms, infrastructure automation, and CI/CD.
 - 🎨 Outside of tech, I enjoy art, painting, drawing, mandala art, and doodling.
