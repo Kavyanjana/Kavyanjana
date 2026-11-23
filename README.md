@@ -72,14 +72,3 @@ All certifications were issued by The Linux Foundation.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavyanjana&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyanjana&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's top languages on GitHub" />
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=Kavyanjana&amp;theme=github-dark-blue&amp;hide_border=true&amp;timezone=Asia%2FKolkata&amp;starting_year=2019" alt="Kavyanjana's GitHub contribution streak" />
-</p>
-
-<img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif" width="100%" alt="" />
-
-### 🤝 Let's Connect
-
-I'd love to connect and learn from others in the cloud-native and open-source community. Find me on [LinkedIn](https://www.linkedin.com/in/kavya-vankayala-devops-sre).
-
-<p align="center"><em>Creating solutions, not just software.</em></p>
