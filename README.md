@@ -28,7 +28,7 @@ I'm a cloud-native platform engineer interested in Kubernetes, infrastructure au
   <tr>
     <td align="center">
       <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
-      <strong>CKS</strong><br />Certified Kubernetes Security Specialist<br /><sub>Valid until Nov 2028</sub>
+      <strong>CKS</strong>
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
