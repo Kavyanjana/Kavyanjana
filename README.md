@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/kavya-vankayala-devops-sre"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## 👩🏻‍💻 About Me
+### 👩🏻‍💻 About Me
 
 I'm a cloud-native platform engineer interested in Kubernetes, infrastructure automation, and open-source collaboration. I love solving infrastructure challenges and exploring ways to build dependable platforms, streamline operations, and apply AI to software engineering.
 
@@ -15,7 +15,7 @@ I'm a cloud-native platform engineer interested in Kubernetes, infrastructure au
 
 <img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif" width="100%" alt="" />
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
@@ -23,7 +23,7 @@ I'm a cloud-native platform engineer interested in Kubernetes, infrastructure au
 
 <img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif" width="100%" alt="" />
 
-## 🏆 Certifications
+### 🏆 Certifications
 
 <table>
   <tr>
@@ -58,7 +58,7 @@ All certifications were issued by The Linux Foundation.
 
 <img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif" width="100%" alt="" />
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavyanjana&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's GitHub statistics" />
@@ -70,6 +70,6 @@ All certifications were issued by The Linux Foundation.
 
 <img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif" width="100%" alt="" />
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 I'd love to connect and learn from others in the cloud-native and open-source community. Find me on [LinkedIn](https://www.linkedin.com/in/kavya-vankayala-devops-sre).
