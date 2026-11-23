@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Kavyanjana Vankayala <img src="https://raw.githubusercontent.com/Kavyanjana/Kavyanjana/main/assets/pikachu-hi.gif" width="70" alt="Pikachu waving hello" /></h1>
-<p align="center"><strong>DevOps · Cloud Native · Open Source</strong></p>
+<h3 align="center">Hi, I'm Kavyanjana Vankayala <img src="https://raw.githubusercontent.com/Kavyanjana/Kavyanjana/main/assets/pikachu-hi.gif" width="70" alt="Pikachu waving hello" /></h3>
 
 <p align="center">
   <a href="https://github.com/Kavyanjana"><img src="https://img.shields.io/badge/GitHub-Kavyanjana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
