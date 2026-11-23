@@ -71,7 +71,7 @@ All certifications were issued by The Linux Foundation.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyanjana&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Kavyanjana's top languages on GitHub" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=Kavyanjana&amp;theme=github-dark-blue&amp;hide_border=true" alt="Kavyanjana's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Kavyanjana&amp;theme=github-dark-blue&amp;hide_border=true&amp;timezone=Asia%2FKolkata&amp;starting_year=2019" alt="Kavyanjana's GitHub contribution streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif" width="100%" alt="" />
