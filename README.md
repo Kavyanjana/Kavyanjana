@@ -68,8 +68,6 @@ I'm interested in DevOps, cloud-native technologies, and automation. I enjoy wor
       <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="70" height="70" alt="Prometheus logo" /><br />
       <strong>PCA</strong><br />Prometheus Certified Associate<br /><sub>Valid until Sep 2028</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="70" height="70" alt="Kubernetes logo" /><br />
       <strong>KCSA</strong><br />Kubernetes and Cloud Native Security Associate<br /><sub>Valid until Aug 2028</sub>
@@ -86,13 +84,6 @@ I'm interested in DevOps, cloud-native technologies, and automation. I enjoy wor
 </table>
 
 All certifications were issued by The Linux Foundation.
-
-## 🌱 Open Source Contributions
-
-- **Last Week in Kubernetes:** [Release schedule contributions](https://github.com/kubernetes-sigs/lwkd/pulls?q=is%3Apr+author%3AKavyanjana).
-- **Kubernetes documentation:** [Website contributions](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3AKavyanjana).
-- **Kubernetes conformance:** [Conformance results submissions](https://github.com/cncf/k8s-conformance/pulls?q=is%3Apr+author%3AKavyanjana).
-- **Kubernetes contributor site:** [SIG Apps spotlight scheduling](https://github.com/kubernetes/contributor-site/pull/888).
 
 ## 📊 GitHub Statistics
 
